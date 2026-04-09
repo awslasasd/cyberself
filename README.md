@@ -4,6 +4,8 @@
 
 模板仓库基于 MkDocs Material 构建，支持一键部署到 GitHub Pages，适合零基础同学快速上手。
 
+**在线预览：** [https://awslasasd.github.io/cyberself/](https://awslasasd.github.io/cyberself/)
+
 ## 项目意义
 
 在 AI 时代，个人网站已经不只是一个“展示页面”，更是学习轨迹、科研成果与实践项目的数字窗口。相比零散文档或静态简历，个人网站更适合持续更新、结构化展示和对外分享。
